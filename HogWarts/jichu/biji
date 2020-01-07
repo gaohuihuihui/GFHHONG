@@ -1,0 +1,16 @@
+python的基本数据类型：
+整型  int
+长整型 long
+浮点数  float
+字符串 string
+列表 list
+元祖 tuple
+字典  dictionary
+集合 set
+布尔型 bool
+
+ 数据类型转换：
+ 字符串和整型互转
+ 整型和浮点数互转
+ 列表和元组互转
+ 嵌套元组转换为字典

@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dbb6218d-f024-4c9b-8933-5e6528c3e8ac" name="Default Changelist" comment="" />
+    <list default="true" id="dbb6218d-f024-4c9b-8933-5e6528c3e8ac" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../HogWarts/jichu/20200102.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HogWarts/jichu/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HogWarts/jichu/biji" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HogWarts/logging/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HogWarts/logging/test_logging.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kidsapp/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kidsapp/test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kidsapp/性能脚本" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,7 +24,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1QxHEiVx5UbMU7TAZuwYBaypKkf" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
@@ -71,5 +84,16 @@
       <updated>1568705217150</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
