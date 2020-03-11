@@ -1,0 +1,2 @@
+class ChapterPage(object):
+    pass
