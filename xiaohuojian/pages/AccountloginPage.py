@@ -1,0 +1,2 @@
+class AccountloginPage(object):
+    pass

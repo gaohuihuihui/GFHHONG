@@ -1,0 +1,7 @@
+
+#登录按钮
+login=driver.find_element_by_id("cn.codemao.android.kids.lite:id/login")
+#作品按钮
+
+
+

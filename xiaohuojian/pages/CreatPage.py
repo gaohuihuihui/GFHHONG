@@ -1,0 +1,2 @@
+class CreatPage(object):
+    pass
