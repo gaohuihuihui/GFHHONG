@@ -1,11 +1,11 @@
-from pages.MainPage import MainPage
+from pages.App import App
+
 
 
 class TestWorks(object):
-    def test_add_work(self):
-
-        main=MainPage()
-        MainPage.gotoWorks()
+    # def test_add_work(self):
+    #
+    #     App.main().gotoWorks()
         pass
 
 

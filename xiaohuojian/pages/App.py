@@ -3,7 +3,8 @@ from pages.MainPage import MainPage
 
 
 class App(object):
+
     @classmethod
-    def main(self):
+    def main(cls):
         AndroidClient.install_app()
         return MainPage()
