@@ -22,9 +22,9 @@ class MainPage(BasePage):
 
     #未登录状态下进入到登录页面
     def gotoLogin(self):
-
-        self.find(self._login_button)
-        self.find(self._login_button).click()
+        self.loadsteps("../data/mainpage.yaml","gotologin")
+        # self.find(self._login_button)
+        # self.find(self._login_button).click()
         return LoginPage()
 
     #进入到自由创作页面

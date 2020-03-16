@@ -8,6 +8,7 @@ class TestAccountLogin(object):
     def setup_class(cls):
         cls.loginPage=App.main().gotoLogin().gotoPhoneloginPage()
 
+
     #执行下面每一条case都保证从登录页面开始
     def setup_method(self):
         self.account_login_page=self.loginPage.gotoAccountloginPage()

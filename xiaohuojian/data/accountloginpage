@@ -1,0 +1,9 @@
+loginbyaccount:
+  - locator: "cn.codemao.android.kids.lite:id/et_phone"
+    by: id
+    action: sendkeys
+    text: $var1
+  - locator: "cn.codemao.android.kids.lite:id/et_password"
+    by: id
+    action: sendkeys
+    text: $var2

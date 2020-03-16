@@ -1,0 +1,9 @@
+gotocoursepage:
+  - locator: "cn.codemao.android.kids.lite:id/course"
+    by: id
+    action: click
+
+gotologin:
+  - locator: "cn.codemao.android.kids.lite:id/ivLoginBg"
+    by: id
+    action: click
